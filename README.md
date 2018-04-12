@@ -1,7 +1,7 @@
 # VPN
 Alibaba cloud + ShadowSocks
 
-SSH远程访问
+SSH远程访问\n
 sh -i keys/SSH.pem root@47.98.171.94
 
 配置ShadowSocks：
